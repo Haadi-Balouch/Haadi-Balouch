@@ -1,5 +1,6 @@
 Hi, I’m Abdul Haadi, a first-year Computer Science student at Air University. On my GitHub, you’ll find my projects and experiments as I build my skills and explore new technologies.
-Currently Learning
+
+# Currently Learning
  * Python
  * C++
  * HTML, CSS, JavaScript
