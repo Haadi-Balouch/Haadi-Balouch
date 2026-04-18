@@ -28,10 +28,11 @@ learning by building: every repo here represents real lab work, not just theory.
 
 | # | Repository | Description | Status |
 |---|-----------|-------------|--------|
-| 1 | 🔬 [home-lab-setup](#) | Virtualized SOC lab — Kali, Windows, Wazuh SIEM | 🔨 Building |
+| 1 | 🔬 [home-lab-setup](https://github.com/Haadi-Balouch/home-lab-setup) | Virtualized SOC lab — Kali, Windows, Wazuh SIEM | ✅ Done |
 | 2 | 🛡️ [siem-detection-lab](#) | Threat detection scenarios with alert analysis | 🔨 Building |
 | 3 | 🌐 [threat-intel-reports](#) | APT research with MITRE ATT&CK TTP mapping | 📋 Planned |
 | 4 | 📝 [thm-soc-writeups](#) | TryHackMe SOC Level 1 room write-ups | 🔨 Building |
+| 5 | 📝 [security-tools](https://github.com/Haadi-Balouch/security-tools) | Hands-on experience with industry-standard defensive and offensive tools | ✅ Done |
 
 ---
 
